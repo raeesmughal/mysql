@@ -52,3 +52,24 @@ A Non-Relational Database stores data in formats other than tables such as key-v
 SQL (Structured Query Language) is a standard programming language used to communicate with relational databases. It allows you to perform tasks like creating databases and tables, inserting, updating, retrieving, and deleting data.
 
 (used to perform CRUD operations)
+
+## database structure
+if we have created a database, how we can imagine to structure it? 
+
+we can think it like we have a database where we have multiple tables to store ```INTER RELATED``` for example, one table is created to store students data and another table in the same database is used to store management staff data (if you are building for school)
+
+## ✅ What is a Table?
+A table in a database is a structured collection of rows and columns, used to store related data in a relational format.
+
+🔹 Columns (Vertical): Define the structure or schema of the table — they specify what type of data will be stored, such as roll_no, name, class, dob, etc.
+
+<i>Think of columns as fields or attributes.</i>
+
+🔹 Rows (Horizontal): Contain the actual data entries for each record. Each row is a unique data item that fills in values for all the columns.
+
+<i>Think of rows as records or individual entries.</i>
+
+<u>In short: A ```table``` defines the structure (via columns) and holds data (via rows).</u>
+
+
+
