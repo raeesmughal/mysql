@@ -43,3 +43,12 @@ A Relational Database stores data in tables (also known as relations), where eac
 
 ## Non-Relational Database (NoSQL)
 A Non-Relational Database stores data in formats other than tables such as key-value pairs, documents, graphs, or wide-columns. It is often used for large-scale, unstructured, or rapidly changing data.
+
+
+
+
+
+# ✅ SQL – Structured Query Language
+SQL (Structured Query Language) is a standard programming language used to communicate with relational databases. It allows you to perform tasks like creating databases and tables, inserting, updating, retrieving, and deleting data.
+
+(used to perform CRUD operations)
